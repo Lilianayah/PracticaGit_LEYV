@@ -12,6 +12,8 @@ public class PracticaGit_LEYV {
 
     public static void main(String[] args) {
         System.out.println("--- Sistema de Gestión");
+        System.out.println("Bienvenido, Usuario Estudiante.");
+   
         
         
         
